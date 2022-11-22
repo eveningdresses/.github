@@ -1,6 +1,6 @@
-<h1 align="center">Evening Dresses</h1>
+<h1 align="center">🅴vening 🅳resses</h1>
 
-<h2 align="center">Renta de vestidos en Monterrey</h2>
+<h2 align="center">Renta y venta de vestidos en Monterrey</h2>
 
 <p align="center"><a align="center" href="https://www.eveningdresses.com.mx">🌐 eveningdresses.com.mx</a></p>
 
