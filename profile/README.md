@@ -4,4 +4,4 @@
 
 <p align="center"><a align="center" href="https://www.eveningdresses.com.mx">🌐 eveningdresses.com.mx</a></p>
 
-<p align="center"><img src="https://storage.googleapis.com/eve-dresses.appspot.com/hero/08-22-1.png" width="60%"></p>
+<p align="center"><img src="https://storage.googleapis.com/eve-dresses.appspot.com/hero/08-23-1.png" width="60%"></p>
